@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>¡Bienvenidos!</p>
-![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tNnIzOTBlOTdrb3g3cjhvd3B1ZGdhYWMwdHNpdzZucGZzOWN2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+![gif][https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tNnIzOTBlOTdrb3g3cjhvd3B1ZGdhYWMwdHNpdzZucGZzOWN2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://www.pluralsight.com/))
 <!--
 **DulRz/DulRz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
