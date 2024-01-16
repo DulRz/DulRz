@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Nacdul Ramirez</h1>
 <h3 align="center">Un desarrollador frontend peruano apasionado y autodidacta con habilidades para crear experiencias web cautivadoras. Mi enfoque combina creatividad, funcionalidad y resolución colaborativa de problemas para diseñar interfaces atractivas, efectivas y fáciles de usar. La transición de la educación a la programación refleja mi dedicación, capacidad para aprender rápidamente y adaptabilidad. Busco oportunidades para colaborar con empresas que tengan un impacto positivo y dejen una impresión duradera en la sociedad.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/ github-profile-trofeo"><img src="https://github-profile-tropico.vercel.app/?username=dulrz" alt="dulrz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/ github-profile-trofeo"><img src="https://github-profile-tropico.vercel.app/?username=DulRz" alt="DulRz" /></a> </p>
 
 <h3 align= "left">Conéctate conmigo:</h3>
 <p align="left">
