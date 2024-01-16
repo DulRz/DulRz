@@ -4,6 +4,8 @@
 - 🌱 Aprendiendo **continuamente**
 
 - 📫 Cómo contactarme **nacdul.ramirez@gmail.com**
+  
+- 😄 Pronombres: Dul
 
 - ⚡ Dato curioso: **Fui maestra de niños y hace 9 meses decidí arriesgarme y sumergirme en el mundo de la tecnología sin tener conocimiento alguno.**
 
