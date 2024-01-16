@@ -7,7 +7,7 @@
 
 - 😄 Pronombres: Dul
 
-- ⚡ Dato curioso: **Fui maestra de niños y hace 9 meses decidí arriesgarme y sumergirme en el mundo de la tecnología sin tener conocimiento alguno.**
+- ⚡ Fun fact: **I used to be a children's teacher, and 9 months ago. I decided to take a risk and dive into the world of technology without any prior knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
