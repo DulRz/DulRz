@@ -5,8 +5,6 @@
 </p>
 <h3 align="center">A passionate and self-taught frontend developer from Peru with skills in creating captivating web experiences. My approach blends creativity, functionality, and collaborative problem-solving to design attractive, effective, and user-friendly interfaces. The transition from education to programming reflects my dedication, ability to learn quickly, and adaptability. I am seeking opportunities to collaborate with companies that make a positive impact and leave a lasting impression on society.</h3>
 
-![Giphy](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
-
 - 🌱 Constantly **learning.**
 
 - 📫 How to reach me **nacdul.ramirez@gmail.com**
