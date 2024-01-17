@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **I used to be a children's teacher, and 9 months ago. I decided to take a risk and dive into the world of technology without any prior knowledge.**
   
 - 💞️ I’m looking to collaborate with companies that make a positive impact and leave a lasting impression on society.
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nacdulramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nacdulramirez" height="30" width="40" /></a>
