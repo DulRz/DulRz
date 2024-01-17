@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=64&pause=1000&color=F7008F&center=true&vCenter=true&random=false&width=900&height=120&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
   </a>
 </p>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=64&pause=1000&color=F70EA4&center=true&vCenter=true&random=false&width=900&height=120&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
-  </a>
-</div>
 <h3 align="center">A passionate and self-taught frontend developer from Peru with skills in creating captivating web experiences. My approach blends creativity, functionality, and collaborative problem-solving to design attractive, effective, and user-friendly interfaces. The transition from education to programming reflects my dedication, ability to learn quickly, and adaptability. I am seeking opportunities to collaborate with companies that make a positive impact and leave a lasting impression on society.</h3>
 
 - 🌱 Constantly **learning.**
