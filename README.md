@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=F7078DFD&background=E393FF00&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
+<h align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=F7078DFD&background=E393FF00&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=500&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG" width="900">
 </h>
 
 <h1 align="center">Hi 👋, I'm Nacdul Ramirez</h1>
