@@ -1,8 +1,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=64&pause=1000&color=F7008F&center=true&vCenter=true&random=false&width=900&height=120&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
-  </a> </p>
+    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=64&pause=1000&color=F70EA4&center=true&vCenter=true&random=false&width=900&height=120&lines=Hi!+%F0%9F%91%8B+I'm+Nacdul+Ramirez" alt="Typing SVG">
+  </a>
+</p>
 <h3 align="center">A passionate and self-taught frontend developer from Peru with skills in creating captivating web experiences. My approach blends creativity, functionality, and collaborative problem-solving to design attractive, effective, and user-friendly interfaces.</h3>
 <br>
 <img align="right" width=284px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
