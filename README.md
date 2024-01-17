@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=64&pause=1000&color=F7008F&center=true&vCenter=true&random=false&width=900&height=120&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
   </a> </p>
-<h3 align="center">A passionate and self-taught frontend developer from Peru with skills in creating captivating web experiences. My approach blends creativity, functionality, and collaborative problem-solving to design attractive, effective, and user-friendly interfaces. I'm seeking opportunities to collaborate with companies that make a positive impact and leave a lasting impression on society.</h3>
+<h3 align="center">A passionate and self-taught frontend developer from Peru with skills in creating captivating web experiences. My approach blends creativity, functionality, and collaborative problem-solving to design attractive, effective, and user-friendly interfaces.</h3>
 <br>
 <img align="right" width=242px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
@@ -14,6 +14,8 @@
 - 😄 Nickname: Dul
 
 - ⚡ Fun fact: **I used to be a children's teacher, and 9 months ago. I decided to take a risk and dive into the world of technology without any prior knowledge.**
+  
+- 💞️ I’m looking to collaborate with companies that make a positive impact and leave a lasting impression on society.
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
