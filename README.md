@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=F7078DFD&background=E393FF00&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=F7078DFD&background=E393FF00&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
 </p>
