@@ -5,7 +5,7 @@
   </a> </p>
 <h3 align="center">A passionate and self-taught frontend developer from Peru with skills in creating captivating web experiences. My approach blends creativity, functionality, and collaborative problem-solving to design attractive, effective, and user-friendly interfaces.</h3>
 <br>
-<img align="right" width=242px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=260px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 🌱 Constantly **learning.**
 
