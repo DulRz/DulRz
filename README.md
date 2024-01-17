@@ -23,14 +23,13 @@
 
 
 
+|                               |                                             |
+| ----------------------------- | ------------------------------------------- |
+| - 🌱 **Constantly learning.**  | ![Giphy](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif) |
+| - 📫 **How to reach me:** [nacdul.ramirez@gmail.com](mailto:nacdul.ramirez@gmail.com) ||
+| - 😄 **Nickname:** Dul ||
+| - ⚡ **Fun fact:** I used to be a children's teacher, and 9 months ago, I decided to take a risk and dive into the world of technology without any prior knowledge. ||
 
-
-  |                              |                                        |
-| ---------------------------- | -------------------------------------- |
-| - 🌱 Constantly **learning.** | ![Giphy](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif) |
-| - 📫 How to reach me **nacdul.ramirez@gmail.com** ||
-| - 😄 Nickname: Dul ||
-| - ⚡ Fun fact: **I used to be a children's teacher, and 9 months ago. I decided to take a risk and dive into the world of technology without any prior knowledge.** ||
 
 
 <h3 align="left">Languages and Tools:</h3>
