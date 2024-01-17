@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/nacdulramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nacdulramirez" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: left; justify-content: space-between; align-items: center;">
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Giphy" width="300" height="300">
 
 
