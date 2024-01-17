@@ -1,3 +1,4 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=64&pause=1000&color=F7008F&center=true&vCenter=true&random=false&width=900&height=120&lines=Hi!+%F0%9F%91%8B%2C+I'm+Nacdul+Ramirez" alt="Typing SVG">
